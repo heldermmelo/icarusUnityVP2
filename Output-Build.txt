@@ -1,0 +1,10 @@
+﻿1>------ Build started: Project: Assembly-CSharp, Configuration: Debug Any CPU ------
+1>C:\Users\Helder\Icarus\Assets\VP2\scripts\AeronaveScript.cs(15,11,15,20): warning CS0414: The field 'AeronaveScript.maxHeight' is assigned but its value is never used
+1>C:\Users\Helder\Icarus\Assets\VP2\scripts\AeronaveScript.cs(14,11,14,35): warning CS0414: The field 'AeronaveScript.maxChangingAltitudeSpeed' is assigned but its value is never used
+1>C:\Users\Helder\Icarus\Assets\VP2\scripts\AeronaveScript.cs(11,11,11,20): warning CS0414: The field 'AeronaveScript.turnForce' is assigned but its value is never used
+1>C:\Users\Helder\Icarus\Assets\VP2\scripts\AeronaveScript.cs(17,11,17,19): warning CS0414: The field 'AeronaveScript.softener' is assigned but its value is never used
+1>C:\Users\Helder\Icarus\Assets\VP2\scripts\AeronaveScript.cs(13,11,13,32): warning CS0414: The field 'AeronaveScript.changingAltitudeForce' is assigned but its value is never used
+1>C:\Users\Helder\Icarus\Assets\VP2\scripts\AeronaveScript.cs(8,10,8,16): warning CS0414: The field 'AeronaveScript.isBoat' is assigned but its value is never used
+1>C:\Users\Helder\Icarus\Assets\VP2\scripts\AeronaveScript.cs(16,11,16,19): warning CS0414: The field 'AeronaveScript.maxDepth' is assigned but its value is never used
+1>  Assembly-CSharp -> C:\Users\Helder\Icarus\Temp\bin\Debug\Assembly-CSharp.dll
+========== Build: 1 succeeded, 0 failed, 1 up-to-date, 0 skipped ==========
