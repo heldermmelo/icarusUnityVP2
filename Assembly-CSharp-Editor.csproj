@@ -49,12 +49,17 @@
      <Compile Include="Assets\TerrainToolkit\Editor\TerrainToolkitEditor.cs" />
      <None Include="Assets\The Work Buildings\Readme.txt" />
      <None Include="Assets\Fantasy Defensive Structures\Fantasy Defensive Strucures\Readme.txt" />
+     <None Include="Assets\Standard Assets\Environment\Water (Basic)\Shaders\FXWaterBasic.shader" />
+     <None Include="Assets\Standard Assets\Environment\Water\Water4\Shaders\FXWater4Simple.shader" />
      <None Include="Assets\Standard Assets\Water\Sources\FX-Water Simple.shader" />
      <None Include="Assets\Standard Assets\Fonts\OpenSans\License!.txt" />
      <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
      <None Include="Assets\Fantasy AI Free Edition\README.txt" />
+     <None Include="Assets\Standard Assets\Environment\Water\Water\Shaders\FXWaterPro.shader" />
      <None Include="Assets\Fantasy AI Free Edition\Models\SkeletonData\animations.txt" />
      <None Include="Assets\Standard Assets\Cameras\CameraGuidelines.txt" />
+     <None Include="Assets\Standard Assets\Environment\Water\Water4\Shaders\WaterInclude.cginc" />
+     <None Include="Assets\Standard Assets\Environment\Water\Water4\Shaders\FXWater4Advanced.shader" />
      <None Include="Assets\TerrainToolkit\Read me.txt" />
  <Reference Include="Assembly-UnityScript-firstpass">
  <HintPath>C:/Users/Helder/Icarus/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
