@@ -1,0 +1,42 @@
+Mono path[0] = 'C:/Users/Helder/Icarus/zeppelinGame_Data/Managed'
+Mono path[1] = 'C:/Users/Helder/Icarus/zeppelinGame_Data/Mono'
+Mono config path = 'C:/Users/Helder/Icarus/zeppelinGame_Data/Mono/etc'
+PlayerConnection initialized from C:/Users/Helder/Icarus/zeppelinGame_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55113
+Multi-casting "[IP] 10.54.106.63 [Port] 55113 [Flags] 3 [Guid] 2889099166 [EditorId] 2658010785 [Version] 1048832 [Id] WindowsPlayer(Note-Helder) [Debug] 1" to [225.0.0.222:54997]...
+Waiting for connection from host on [10.54.106.63:55113]...
+PlayerConnection accepted from [169.254.154.255] handle:0x258
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,defer=y,address=0.0.0.0:56166
+PlayerConnection already initialized - listening to [10.54.106.63:55113]
+Initialize engine version: 5.2.1f1 (44735ea161b3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4000 (ID=0x166)
+    Vendor:   Intel
+    VRAM:     896 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Helder\Icarus\zeppelinGame_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Helder\Icarus\zeppelinGame_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Helder\Icarus\zeppelinGame_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Helder\Icarus\zeppelinGame_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Helder\Icarus\zeppelinGame_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Helder\Icarus\zeppelinGame_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Helder\Icarus\zeppelinGame_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\Helder\Icarus\zeppelinGame_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Helder\Icarus\zeppelinGame_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Helder\Icarus\zeppelinGame_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Helder\Icarus\zeppelinGame_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Helder\Icarus\zeppelinGame_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Helder\Icarus\zeppelinGame_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Helder\Icarus\zeppelinGame_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Helder\Icarus\zeppelinGame_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.484 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Helder\Icarus\zeppelinGame_Data\Managed\System.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 10e0 -> priority: 1 
+Waiting for finish

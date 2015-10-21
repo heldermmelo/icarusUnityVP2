@@ -1,11 +1,6 @@
-﻿#pragma strict
-
+﻿
 import UnityEngine;
 import Transform;
-
-
-
-
 
 var isBoat = false;
 var force =0.0;

@@ -53,7 +53,6 @@
      <Compile Include="Assets\Fantasy AI Free Edition\Scripts\Player\HealthPotion.cs" />
      <Compile Include="Assets\Fantasy AI Free Edition\Scripts\Player\PlayerController.cs" />
      <Compile Include="Assets\TerrainToolkit\TerrainToolkit.cs" />
-     <Compile Include="Assets\VP2\scripts\AeronaveScript.cs" />
      <Compile Include="Assets\VP2\scripts\Menu.cs" />
      <None Include="Assets\The Work Buildings\Readme.txt" />
      <None Include="Assets\Fantasy Defensive Structures\Fantasy Defensive Strucures\Readme.txt" />

@@ -4,11 +4,11 @@ using System;
 
 public class Menu : MonoBehaviour {
 
-    bool estaVisivel = false;
-
+    bool estaVisivel = true;
+   
 	// Use this for initialization
 	void Start () {
-	
+	    
 	}
 
     // Update is called once per frame
@@ -30,12 +30,12 @@ public class Menu : MonoBehaviour {
     void OnGUI() {
         if (estaVisivel)
         {
-            if (GUI.Button(new Rect(10, 10, 50, 50), "Novo"))
+            if (GUI.Button(new Rect(250, 180, 80, 60), "Novo"))
             {
                 print("Você apertou o botão");
                 Application.LoadLevel(0);
             }
-            else if (GUI.Button(new Rect(30, 40, 50, 20), "Proximo nível"))
+            else if (GUI.Button(new Rect(500, 180, 90, 60), "Proximo nível"))
             {
                 print("Você apertou o botão");
                 Application.LoadLevel(1);

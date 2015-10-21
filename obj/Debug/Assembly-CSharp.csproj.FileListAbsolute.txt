@@ -14,6 +14,7 @@ C:\Users\Helder\Icarus\Temp\bin\Debug\Unity.UNetWeaver.dll
 C:\Users\Helder\Icarus\Temp\bin\Debug\Unity.CecilTools.dll
 C:\Users\Helder\Icarus\Temp\bin\Debug\Mono.Cecil.Pdb.dll
 C:\Users\Helder\Icarus\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Helder\Icarus\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
 C:\Users\Helder\Icarus\Temp\bin\Debug\UnityEngine.xml
 C:\Users\Helder\Icarus\Temp\bin\Debug\UnityEditor.xml
 C:\Users\Helder\Icarus\Temp\bin\Debug\UnityEngine.UI.xml
@@ -21,7 +22,6 @@ C:\Users\Helder\Icarus\Temp\bin\Debug\UnityEngine.Networking.xml
 C:\Users\Helder\Icarus\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
 C:\Users\Helder\Icarus\obj\Debug\Assembly-CSharp.dll
 C:\Users\Helder\Icarus\obj\Debug\Assembly-CSharp.pdb
-C:\Users\Helder\Icarus\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
 C:\Users\Helder\Icarus\Temp\bin\Debug\UnityEngine.Advertisements.dll
 C:\Users\Helder\Icarus\Temp\bin\Debug\UnityEngine.Analytics.dll
 C:\Users\Helder\Icarus\Temp\bin\Debug\UnityEngine.Advertisements.xml

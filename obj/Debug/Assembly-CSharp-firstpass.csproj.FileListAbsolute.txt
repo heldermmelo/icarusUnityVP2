@@ -1,4 +1,3 @@
-C:\Users\Helder\Icarus\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
 C:\Users\Helder\Icarus\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
 C:\Users\Helder\Icarus\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
 C:\Users\Helder\Icarus\Temp\bin\Debug\Mono.Cecil.dll
@@ -20,6 +19,7 @@ C:\Users\Helder\Icarus\Temp\bin\Debug\UnityEngine.UI.xml
 C:\Users\Helder\Icarus\Temp\bin\Debug\UnityEngine.Networking.xml
 C:\Users\Helder\Icarus\obj\Debug\Assembly-CSharp-firstpass.dll
 C:\Users\Helder\Icarus\obj\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Helder\Icarus\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
 C:\Users\Helder\Icarus\Temp\bin\Debug\UnityEngine.Advertisements.dll
 C:\Users\Helder\Icarus\Temp\bin\Debug\UnityEngine.Analytics.dll
 C:\Users\Helder\Icarus\Temp\bin\Debug\UnityEngine.Advertisements.xml
